@@ -1,0 +1,5 @@
+SKIP_PREFLIGHT_CHECK = true
+
+//PROFE ESTE NO ES MI ARCHIVO ".env" , ESE LO AGREGUÉ AL GIT IGNORE
+//este es un archivo "env" que venía creado en el apoyo y no lo quise eliminar por las dudas.
+
